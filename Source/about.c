@@ -81,7 +81,7 @@ void About(Ctr* cinfo, USER* u)//关于
 				switch (cnt)
 				{
 				case 0:
-					About_show();	//显示关于
+					About_show();//显示关于
 					break;
 				case 1:
 					Help_show();
