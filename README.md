@@ -18,3 +18,8 @@
     最后，我们想感谢C语言课程设计的所有老师、助教，以及帮助过我们
 的同学。软件依旧有很多不足或者是可更新优化的地方。希望我们在软件
 设计和开发方面能走的更远。
+
+## Contributors
+
+- [contributor-1](https://github.com/Weijingmin2000)
+- [contributor-2](https://github.com/Mind-s)
