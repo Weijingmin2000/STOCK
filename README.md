@@ -23,5 +23,3 @@
 
 - [Jingmin Wei](https://github.com/Weijingmin2000)
 - [Shumin Deng](https://github.com/Mind-s)
-
-[![Contributors](https://img.shields.io/github/contributors/Weijingmin2000/STOCK.svg)](https://github.com/Weijingmin2000/STOCK/graphs/contributors)
